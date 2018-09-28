@@ -9,7 +9,7 @@ public class SortedStringsDescending{
          ArrayList arr = new ArrayList();
          
          try 
-	     {
+	 {
              BufferedReader in = new BufferedReader(new FileReader("input.cvs"));
              str = in.readLine();
              
