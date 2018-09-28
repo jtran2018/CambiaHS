@@ -1,0 +1,57 @@
+Cambia/ HealthSparq Take-Home Exercise
+
+1. Write Gherkin tests for the program you wrote above. Use any Gherkin features or practices
+you want. Don’t write step definitions (i.e., the tests don’t have to be executable).
+   Written in GherkinTest.txt file.
+
+2. Explain in detail why these tests might be helpful in the future.
+   To make sure any unit of code work properly and output correctly.
+
+Tools
+1. In your opinion, what’s helpful about version control systems? What’s annoying about them?
+   Pros: managing the changes of an application, comparing different versions, downloading 
+specific version later, being easily changed by a number of different users.
+   Cons: taking much storage space.
+
+2. What are some pros and cons of using Docker to develop, test, and deploy software?
+   . Pros: Full control over the execution environment of the application. Reducing risk 
+and easy update of an existing application and environment.
+   . Cons: Docker does not have a command to clean older images, lifecycle management, and 
+lack of kernel support.
+
+3. How do you choose which language to use for a given task? How did you choose the language for
+the programming exercise above?
+   I choose a language which I am familiar with, and it provides useful library for writing code.
+
+Testing Methodology
+1. What’s the right role for QA in the software development process?
+   Guarantee a level of quality for the end client, and help the software development team
+to identify problems early in the process.
+
+2. As a QA person, you have 2 weeks to prepare before your team starts writing software.
+What do you do?
+   Learning functionality of the project, preparing test environment, test plans, test cases, 
+planing implementation and automation of tests.
+
+3. When is it appropriate to use automated testing? When is it appropriate to use manual
+testing?
+   . Using automated testing: to handle time-consuming tasks, to handle repetitive tasks, 
+to elimintae human error, to advanced GUI testing, to test load and performance.
+   . Using manual testing: when test cases run once or twice, frequent code changes, 
+multiple users access it simultaneously, to improve customer experience.
+
+4. Your dev team has just modified an existing product by adding new features and refactoring
+the code for old features. The devs claim to have written unit tests; you’re in charge of
+integration testing. Dedicated teams are handling performance and security testing, so you
+don’t have to. As is always the case in the real world, you don’t have time to test everything.
+What factors do you think about as you decide where to focus your testing efforts? How do
+you decide what not to test?
+   Combining individual units of code and testing as a group. The purpose is to exposure fault 
+in the interaction beween integrated units of software.
+
+About Yourself
+1. What excites you about this position?
+   I want to learn new language, tool, technique, and experience in automated testing.
+
+2. Why do you want to work as SDET whent you have worked as a UI/ backend engineer?
+   I can gain experience in automated testing.
